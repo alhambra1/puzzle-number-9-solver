@@ -13,7 +13,9 @@ exponentially slower search (between 3 and 6 is recommended)
 
 BOARD is indexed
 1 2 3
+
 4 5 6
+
 7 8 9
 
 so enter the number from each index in order
@@ -23,6 +25,9 @@ searches for a way to get a 9,
 using 6 moves for each choice point,
 on the board
 5 1 4
+
 8 2 9
+
 6 7 3
+
 and yields the result [[2,4]
